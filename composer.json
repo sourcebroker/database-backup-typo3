@@ -4,7 +4,8 @@
   "description": "Do database backup",
   "require": {
     "typo3/cms": "^6.2 || ^7.6 || ^8.7",
-    "symfony/yaml": "~2.3|~3"
+    "symfony/yaml": "~2.3|~3",
+    "sourcebroker/database-backup-dist": "^1.0"
   },
   "authors": [
     {
